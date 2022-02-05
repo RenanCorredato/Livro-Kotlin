@@ -17,9 +17,16 @@ classe,	 assim:	 	open	 class	 Carro
  */
 
 fun main() {
-    class CarroEspecial : Carro() {
-        fun fazerDrif(){
-            // TODO: 30/01/2022
-        }
+
+    val c = SpecialCar()
+    c.fazerDrift()
+    c.color = "Black"
+
+
+}
+
+class SpecialCar : Car() {
+    fun fazerDrift() {
+       println("Drift, efetuado com sucesso")
     }
 }

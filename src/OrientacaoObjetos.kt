@@ -9,13 +9,13 @@ Kotlin.
 
 
 fun main() {
-    val c = Carro()
+    val c = Car()
     c.color = "Azul"
     c.model = "Nissan 350z"
     c.speed()
 }
 
-open class Carro {
+open class Car {
     var color: String = ""
     var model: String = ""
 
