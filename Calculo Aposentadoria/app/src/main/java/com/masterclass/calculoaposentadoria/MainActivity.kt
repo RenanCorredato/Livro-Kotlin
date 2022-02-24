@@ -3,7 +3,6 @@ package com.masterclass.calculoaposentadoria
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.snackbar.Snackbar
 import com.masterclass.calculoaposentadoria.databinding.ActivityMainBinding
 
 
@@ -23,19 +22,20 @@ class MainActivity : AppCompatActivity() {
 
         binding.spnSex.adapter =
             ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, listSex)
-//        val sex = binding.spnSex.selectedItem as String
-//        val age = binding.tvEnterAge.text.toString().toInt()
-//
-//        var result = 0
-//        if (sex == "Masculino"){
-//            result = 65 - age
-//        }else{
-//            result = 60 - age
-//        }
 
         binding.btCalc.setOnClickListener {
-            Snackbar.make(binding.root, "Você que calcular alguam coisa ", Snackbar.LENGTH_SHORT).show()
+
+            val sex = binding.spnSex.selectedItem as String
+            val age = binding.etAge.text.toString().toInt()
+
+            var result = 0
+            if (sex == "Masculino") {
+                result = 65 - age
+            } else {
+                result = 62 - age
+            }
+
+            binding.tvResult.text = "Faltam	$result	anos para você se aposentar."
         }
     }
-
 }
