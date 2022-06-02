@@ -28,14 +28,14 @@ class MainActivity : AppCompatActivity() {
             val sex = binding.spnSex.selectedItem as String
             val age = binding.etAge.text.toString().toInt()
 
-            var result = 0
+            var result: Int
             if (sex == "Masculino") {
                 result = 65 - age
             } else {
                 result = 62 - age
             }
 
-            binding.tvResult.text = "Faltam	$result	anos para você se aposentar."
+            binding.tvResult.text = "Faltam $result anos para você se aposentar."
         }
     }
 }

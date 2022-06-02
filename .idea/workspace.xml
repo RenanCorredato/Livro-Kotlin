@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81a69eb2-c8f0-4452-8290-70ce4483616b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/Argumentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/Condicaoloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/ScannerUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/TypeNotPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeuPrimeiroPrograma/src/com/company/VariavelFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Carro/CarroDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Carro/CarroUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Carro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Pessoa/Cleber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Pessoa/Renan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo4/src/com/company/Pessoa/Segunda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/androidTest/java/com/masterclass/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/java/com/masterclass/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/app/src/test/java/com/masterclass/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/app VipIngresso/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/app VipIngresso/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip ingresso/app VipIngresso/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/api/ApiError.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/api/CHUCKNORRISBApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/base/BaseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/base/BaseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/features/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/features/home/repository/HomeRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/features/home/usecase/HomeUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/features/home/view/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/features/home/viewmodel/HomeViemModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/model/Categorie.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/model/RamdonJoke.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/utils/Command.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/utils/ErrorUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/apptesteapi/utils/ResponseApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/adapter/searchAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/api/ApiError.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/api/CHUCKNORRISApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/base/BaseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/base/BaseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/features/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/features/search/repository/SearchRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/features/search/usecase/SearchUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/features/search/view/SearchFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/features/search/viewModel/SearchViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/model/Categories.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/model/RandomJokes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/utils/Command.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/utils/Constants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/utils/ErrorUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/java/com/example/desafiostone/utils/ResponseApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/layout/carditem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/layout/search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/layout/searchpesquis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/navigation/search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App Teste Api/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/java/com/example/beerdelivery/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/res/drawable/logo_beer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerDelivery/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/java/com/beermug/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeerMug/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/adapter/ViewPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/calls/CallsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/calls/adapter/Call.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/calls/adapter/CallAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/calls/adapter/CallViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/chat/ChatFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/java/com/example/clonezap/viewpager/status/StatusFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/drawable/ic_baseline_search_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/drawable/ic_baseline_videocam_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/calls_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/chat_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/fragment_calls.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/fragment_chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/fragment_status.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CloneZap/app/src/main/res/layout/status_item_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/Frase/app/src/main/res/drawable/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/androidTest/java/com/masterclass/alcoolougasolina/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/java/com/masterclass/alcoolougasolina/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/drawable/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/app/src/test/java/com/masterclass/alcoolougasolina/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso completo de Kotlin para Android/alcoolougasolina/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Digital House/Aula06/.idea/Aula06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Digital House/Aula1/Aula1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessTracker/app/src/main/java/com/example/fitnesstracker/ImcActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessTracker/app/src/main/res/drawable/bg_button_color_black_gray.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessTracker/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessTracker/app/src/main/res/layout/activity_imc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FitnessTracker/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/androidTest/java/com/hiperpet/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/activity/HomeActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/activity/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/activity/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/activity/TipsActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/adpater/TipsVPAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/fragaments/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/fragaments/tips/TipsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/java/com/hiperpet/fragaments/tips/TipsImageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/botao_cae.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/botao_gatos.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/carousel6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/drawable/logofundo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/drawable/logohiper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/drawable/racao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/drawable/shampoo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/ic_android_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/logofundo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/logohiper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/racao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/drawable/shampoo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/activity_tips.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/fragment_tips.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/layout/fragment_tips_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/mipmap-xxxhdpi/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/navigation/nav_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/navigation/nav_tips.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/raw/fluid_load.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/raw/the_flying_rocket.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/app/src/test/java/com/hiperpet/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/Final/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/java/com/example/hiperpet/activity/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/java/com/example/hiperpet/activity/TipsActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/java/com/example/hiperpet/adpater/TipsVPAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/java/com/example/hiperpet/fragaments/tips/TipsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/java/com/example/hiperpet/fragaments/tips/TipsImageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/drawable/logohiper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/activity_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/activity_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/fragment_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/fragment_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/fragment_tips_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/layout/fragment_tips_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/navigation/nav_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/navigation/nav_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HiperPet/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HiperPet/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Aposentadoria/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile2You/app/src/main/java/com/desafiomobile2you/api/ApiError.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile2You/app/src/main/java/com/desafiomobile2you/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile2You/app/src/main/java/com/desafiomobile2you/api/TMDBApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile2You/app/src/main/java/com/desafiomobile2you/model/Movies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile2You/app/src/main/java/com/desafiomobile2you/model/Result.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorteio/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Activity/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Activity/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Adapter/LoginViewPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/ForgotpasswordFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Fragments/LoginFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Fragments/MainFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/java/com/example/brflix/Fragments/RegisterFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/drawable/ic__google_logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/drawable/logo1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/drawable/tab_color_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/layout/fragment_forgotpassword.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/layout/fragment_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/layout/fragment_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/navigation/nav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teste Br/app/src/main/res/values-en/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/renancorredato/extencions/AppExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/renancorredato/ui/AddTaskActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/ic_baseline_add_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/ic_calendar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/ic_navigate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/ic_timer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/activity_add_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoList/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/LigaFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/MainFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/SerieaFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/SeriebFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/SeriecFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/SplashActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/java/com/example/uefa/ViewPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_brazil_svgrepo_com.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_corinthians_paulista.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_cruzeiro_esporte_clube_sc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_esporte_clube_santo_andre_sp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_leka_soccer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_santos_futebol_clube_de_santos_sp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_soccer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/drawable/ic_uefa_champions_league_logo_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/fragment_liga.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/fragment_seriea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/fragment_serieb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/layout/fragment_seriec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/menu/bottom_navigation_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UEFA/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/androidTest/java/com/masterclass/cadastro/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/java/com/masterclass/cadastro/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/java/com/masterclass/cadastro/TelaDoisFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/java/com/masterclass/cadastro/TelaTresFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/java/com/masterclass/cadastro/TelaUmFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/layout/fragment_tela_dois.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/layout/fragment_tela_tres.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/layout/fragment_tela_um.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/app/src/test/java/com/masterclass/cadastro/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Cadastro/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/api/ApiError.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/api/IMDBApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/base/BaseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/base/BaseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/features/home/model/HomeUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/features/home/view/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/features/home/viewmodel/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/features/repository/HomeRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Launch/Director.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Launch/Genre.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Launch/ItemLaunch.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Launch/Launch.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Launch/Star.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Popular/ItemPopular.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Popular/PopularMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Series/ItemTv.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/model/Series/SeriesTv.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/utils/Command.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/utils/ErrorUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/java/com/masterclass/catalogodefilmes/utils/ResponseApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/CatalogodeFilmes/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/java/com/masterclass/desafioperguntados/FirstQuestionFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/java/com/masterclass/desafioperguntados/FirstScreenFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/java/com/masterclass/desafioperguntados/PunctuationFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/java/com/masterclass/desafioperguntados/SecondQuestionFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/res/layout/fragment_first_question.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/res/layout/fragment_first_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/res/layout/fragment_punctuation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/res/layout/fragment_second_question.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/Desafio Perguntados/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/app/src/main/java/com/masterclass/useacademy/AaFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/app/src/main/res/layout/fragment_aa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/app/src/main/res/layout/fragment_bb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/app/src/main/res/layout/fragment_cc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Use Academy/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="26AQ9SEf8geSxmHYmIc5HBHVY3O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Estruturas importantes da linguagem Kotlin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a69eb2-c8f0-4452-8290-70ce4483616b" name="Changes" comment="" />
+      <created>1646863806614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646863806614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
